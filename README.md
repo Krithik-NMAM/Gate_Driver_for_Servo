@@ -1,1 +1,1 @@
-# Gate_Driver_for_Servo
+The Motor Driver PCB project aims to design a robust and efficient motor driver circuit that can control the position, velocity, and acceleration of a Permanent Magnet DC (PM DC) Servo Motor. The project utilizes KiCad, an open-source Electronic Design Automation (EDA) software suite, to create the schematic, allocate footprints for components, and draw the PCB layout. The final PCB will serve as a vital component in various applications, such as robotics, automation, and precision motion control systems.
